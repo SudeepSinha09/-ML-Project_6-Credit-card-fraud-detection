@@ -1,8 +1,8 @@
 # ML-Project_6-Credit-card-fraud-detection
 
-     Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv
-     Colab Notebook - https://colab.research.google.com/drive/1-6Qd2hknHQwBxDXXXf_t8KvEcNMQ99pZ?usp=sharing
-     info at Github - https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html
+     Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv  
+     Colab Notebook - https://colab.research.google.com/drive/1-6Qd2hknHQwBxDXXXf_t8KvEcNMQ99pZ?usp=sharing  
+     info at Github - https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html  
      Data - creditcard.csv (150.83 MB)
 
 #### Please use the Ipynb file in the repository for a detailed explanation of this project. This is because the project has been completed and the steps have been written in the notebook referenced in the repository.
